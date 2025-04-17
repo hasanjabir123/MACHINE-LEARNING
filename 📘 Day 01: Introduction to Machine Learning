@@ -1,0 +1,72 @@
+# 📘 Day 01: Introduction to Machine Learning
+
+---
+
+## 🤖 What is Machine Learning?
+
+**Machine Learning (ML)** is a subset of Artificial Intelligence (AI) that allows systems to learn from data and make predictions or decisions without being explicitly programmed.
+
+---
+
+## 🔍 Types of Machine Learning
+
+1. **Supervised Learning**
+   - Input data (features) and output labels are provided.
+   - Model learns to map input to output.
+   - 📌 Examples: Linear Regression, Logistic Regression, Decision Trees
+
+2. **Unsupervised Learning**
+   - Only input data is provided, no labels.
+   - Model finds hidden patterns or groupings.
+   - 📌 Examples: K-Means Clustering, PCA
+
+3. **Reinforcement Learning**
+   - An agent learns by interacting with the environment.
+   - Uses rewards and penalties to learn optimal actions.
+   - 📌 Examples: Game-playing agents, robotics
+
+---
+
+## 🧱 Basic Concepts
+
+| Term               | Description |
+|--------------------|-------------|
+| **Dataset**        | Collection of data used to train/test the model |
+| **Features**       | Input variables (independent variables) |
+| **Labels/Targets** | Output variables (dependent variable) |
+| **Model**          | A mathematical representation used to make predictions |
+| **Training**       | Teaching the model using known data |
+| **Testing**        | Evaluating model performance on unseen data |
+
+---
+
+## 🛠️ Common ML Workflow
+
+1. Collect Data
+2. Clean and Preprocess Data
+3. Choose a Model
+4. Train the Model
+5. Evaluate the Model
+6. Make Predictions
+
+---
+
+## ⚙️ Common Libraries in Python
+
+- `pandas` – for data manipulation
+- `numpy` – for numerical operations
+- `matplotlib` / `seaborn` – for visualization
+- `scikit-learn` – for machine learning models
+
+---
+
+## 📌 Why Learn ML?
+
+- In-demand skill in tech industry
+- Used in healthcare, finance, automation, marketing, etc.
+- Powers technologies like chatbots, recommendation systems, and fraud detection
+
+---
+
+📅 **Next Step**: Start with a simple regression model (Linear Regression)
+
