@@ -1,0 +1,36 @@
+## 🔍 Types of Machine Learning
+
+Machine Learning is generally classified into three main types:
+
+---
+
+### 1️⃣ Supervised Learning
+- Learns from labeled data (input-output pairs)
+- Goal: Predict the output for new/unseen data
+- **Examples**:
+  - Linear Regression
+  - Decision Trees
+  - Support Vector Machines (SVM)
+  - K-Nearest Neighbors (KNN)
+
+---
+
+### 2️⃣ Unsupervised Learning
+- Works with **unlabeled data**
+- Goal: Find hidden patterns or groupings in the data
+- **Examples**:
+  - K-Means Clustering
+  - Principal Component Analysis (PCA)
+  - Hierarchical Clustering
+  - Apriori Algorithm
+
+---
+
+### 3️⃣ Reinforcement Learning
+- Learns by interacting with an environment
+- Receives **rewards or penalties** based on actions
+- Goal: Maximize cumulative rewards
+- **Examples**:
+  - Game-playing agents (like AlphaGo)
+  - Robotics
+  - Self-driving Cars
