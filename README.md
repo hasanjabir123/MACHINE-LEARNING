@@ -10,8 +10,8 @@ This repository contains my journey of learning Machine Learning for 100 days st
 
 ## 📅 Progress
 
-- ✅ Day 01: Linear Regression
-- ✅ Day 02: Logistic Regression
+- ✅ Day 01: Introduction of ML
+- ✅ Day 02: Types of ML
 - ⏳ Day 03: Coming soon...
 
 ## 🛠️ Tools Used
