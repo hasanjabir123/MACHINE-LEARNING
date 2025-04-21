@@ -12,7 +12,8 @@ This repository contains my journey of learning Machine Learning for 100 days st
 
 - ✅ Day 01: Introduction of ML
 - ✅ Day 02: Types of ML
-- ⏳ Day 03: Coming soon...
+- ✅ Day 03: Machine Learning Process Flow
+- ⏳ Day 04: Coming soon...
 
 ## 🛠️ Tools Used
 
